@@ -51,7 +51,7 @@ hr {
 }
 
 .section-title strong {
-	color: #00C6D7;
+	color: #9d6941;
   	font-size: 56px;
 }
 
@@ -114,7 +114,7 @@ preloader section
   margin: 0 auto;
   width: 20%;
   height: 20%;
-  background-color: #00c6d7;
+  background-color: #9d6941;
   border-radius: 100%;
   -webkit-animation: sk-circleBounceDelay 1.2s infinite ease-in-out;
           animation: sk-circleBounceDelay 1.2s infinite ease-in-out;
@@ -211,16 +211,16 @@ preloader section
 navigation section
 ========================================================================== */
 .custom-navbar {
-    background: #4B4B4B;
+    background: #b2a191;
     margin-bottom: 0;
 }
 .custom-navbar .navbar-brand  {
-  color: #00c6d7;
+  color: white;
   font-weight: 600;
   font-size: 24px;
 }
 .custom-navbar .navbar-brand .navbar-toggle {
-    background: #00c6d7;
+    background: #9d6941;
     padding: 4px 6px;
     font-size: 16px;
     color: #fff;
@@ -240,14 +240,14 @@ navigation section
   outline: none;
 }
 .custom-navbar .nav li.active > a {
-      color: #00c6d7;
+      color: #9d6941;
     }
 .custom-navbar .navbar-toggle {
         border: none;
         padding-top: 10px;
     }
 .custom-navbar .navbar-toggle .icon-bar {
-        background: #00c6d7;
+        background: #9d6941;
         border-color: transparent;
     }
 @media(min-width:768px){
@@ -259,7 +259,7 @@ navigation section
          }
     .custom-navbar.top-nav-collapse {
             padding: 8px;
-            background: #4B4B4B;
+            background: #b2a191;
         }
 }
 
@@ -303,11 +303,11 @@ home section
   transition: all 0.4s ease-in-out;
 }
 #home .btn:hover {
-  background: #00c6d7;
+  background: #9d6941;
   border-color: transparent;
 }
 #home .btn-danger {
-  background: #00c6d7;
+  background: #9d6941;
   border-color: transparent;
 }
 #home .btn-danger:hover {
@@ -341,7 +341,7 @@ work section
 about section
 ========================================================================== */
 #about {
-  background: #3B3B3B;
+  background: #b2a191;
   color: #ffffff;
 }
 .nav-tabs {
@@ -366,7 +366,7 @@ about section
 .nav-tabs > li.active > a,
 .nav-tabs > li.active > a:hover,
 .nav-tabs > li.active > a:focus {
-  color: #00c6d7;
+  color: #9d6941;
   cursor: default;
   background-color: transparent;
   border: 1px solid transparent;
@@ -392,7 +392,7 @@ team section
   text-align: center;
 }
 #team h3 {
-  color: #00c6d7;
+  color: #9d6941;
   font-size: 14px;
   font-weight: bold;
 }
@@ -445,7 +445,7 @@ team section
 }
 
 #team .social-icon li a:hover {
-  color: #00c6d7;
+  color: #9d6941;
 }
 
 /* ==========================================================================
@@ -492,7 +492,7 @@ portfolio section
 .filter-wrapper li .selected,
 .filter-wrapper li a:focus,
 .filter-wrapper li a:hover {
-    color: #00c6d7;
+    color: #9d6941;
     outline: none;
   }
 
@@ -587,14 +587,12 @@ pricing section
   text-transform: uppercase;
 }
 #pricing .plan-one .btn {
-  background-color: #00c6d7;
+  background-color: #9d6941;
 }
 #pricing .plan-two .btn {
   background-color: #ffa400;
 }
-#pricing .plan-three .btn {
-  background-color: #009988;
-}
+
 #pricing .plan .btn:hover {
   background-color: #3B3B3B;
 }
@@ -639,8 +637,8 @@ contact section
   height: 40px;
 }
 #contact input[type="submit"] {
-  background: #00c6d7;
-  border: 3px solid #00c6d7;
+  background: #9d6941;
+  border: 3px solid #9d6941;
   letter-spacing: 1px;
   margin-top: 18px;
   height: 50px;
@@ -683,7 +681,7 @@ footer p {
   transition: all 0.4s ease-in-out;
 }
 .social-icon li a:hover {
-  color: #00c6d7;
+  color: #9d6941;
 }
 
 @media screen and (min-width: 992px) {
